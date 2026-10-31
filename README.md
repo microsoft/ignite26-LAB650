@@ -35,7 +35,7 @@ Fill in the sections below yourself, then:
 ## 🔥LAB650: Build a Knowledge-Powered Workspace with Copilot in SharePoint
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+Learn how to transform content into organizational knowledge and put AI to work across your team. You'll use Copilot in SharePoint to organize information, enrich content with metadata, create pages and reports, build reusable skills, and automate common processes. Along the way, you'll see how better-organized knowledge helps strengthen Copilot experiences across Microsoft 365. Leave with practical techniques you can apply immediately to build a modern, AI-powered knowledge workspace.
 
 ### 🚀 Getting started
 
