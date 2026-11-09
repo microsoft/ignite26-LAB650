@@ -70,8 +70,8 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 ### 👥 Content owners
 
 <!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {https://github.com/katelynhelms}.png
-2. Change @katelynhelms to your name
+1. to {https://github.com/katelynhelms}.png
+2. @katelynhelms 
 3. Change the github url in the final href to your url. -->
 
 <table>
