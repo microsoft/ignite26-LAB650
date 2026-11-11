@@ -11,33 +11,9 @@ Learn how to transform content into organizational knowledge and put AI to work 
 
 If you're following along during a live session:
 
-1. Step 1
-2. Step 2
-3. Open [`instructions/`](instructions/README.md) when this session includes
-   attendee step-by-step guidance
-
-#### On your own
-
-If you're learning at your own pace:
-
-1. Clone this repository
-2. Set up your environment
-3. Follow the session guidance in [`instructions/`](instructions/README.md), or
-   use the linked docs-site entry point when this repository uses that pattern
-
-### 🎯 Learning outcomes
-
-By the end of this session, you will be able to:
-
-- Outcome 1
-- Outcome 2
-- Outcome 3
-
-### 💻 Technologies used
-
-- Technology 1
-- Technology 2
-- Technology 3
+1. Open **Edge** on your lab desktop and follow the **Lab setup** steps in [`instructions/`](instructions/README.md) to sign in with your lab user name and password. Use that account for the whole lab.
+2. Choose your path: **Track A then Track C** to build an account knowledge base and put it to work, or **Track B** to explore a shared field-service knowledge base. The tracks are independent. In Track B, follow the presenter for the MC-led tasks.
+3. Continue in [`instructions/`](instructions/README.md) for step-by-step guidance on each task.
 
 ### 📚 Continue your learning
 
@@ -70,8 +46,8 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 ### 👥 Content owners
 
 <!-- TODO: Add yourself as a content owner
-1. to {https://github.com/katelynhelms}.png
-2. @katelynhelms 
+1. to {https://github.com/faltmark-personal}.png
+2. @faltmark-personal 
 3. Change the github url in the final href to your url. -->
 
 <table>
