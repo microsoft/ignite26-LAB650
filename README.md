@@ -52,7 +52,7 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
+    <td align="center"><a href="http://github.com/faltmark-personal">
         <img src="https://github.com/faltmark-personal.png" width="100px;" alt="faltmark-personal"/><br />
         <sub><b>faltmark-personal</b></sub></a><br />
             <a href="https://github.com/faltmark-personal" title="talk">📢</a>
