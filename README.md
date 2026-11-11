@@ -53,9 +53,9 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 <table>
 <tr>
     <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="faltmark-personal"/><br />
+        <sub><b>faltmark-personal</b></sub></a><br />
+            <a href="https://github.com/faltmark-personal" title="talk">📢</a>
     </td>
 </tr></table>
 
