@@ -5,14 +5,12 @@
 3. Microsoft SharePoint Tenant enrolled in Frontier preview
 4. Microsoft 365 Tenant with Copilot Credits policy applied
 
-# Attendee instructions
-
 <a id="start"></a>
 
 # Ignite 2026 Knowledge Base Lab
 
 * **Track A:** Create a knowledge base from scratch for the EagleFord sales account (3 tasks).
-* **Track B:** Explore a shared Field Knowledge knowledge base for a property management account (10 tasks).
+* **Track B:** Explore a shared Field Knowledge knowledge base for a property management account (10 tasks). *In-person only; not available to on-demand lab users.*
 * **Track C:** Use the EagleFord Account Knowledge Base you created in Track A (4 tasks).
 
 *All names are fictional.*
@@ -32,7 +30,7 @@
 | [A1 · Get the source files](#a1) | On your own |
 | [A2 · Upload the files](#a2) | On your own |
 | [A3 · Create the knowledge base](#a3) | On your own |
-| **Track B · Explore the shared Field Knowledge knowledge base** |     |
+| **Track B · Explore the shared Field Knowledge knowledge base** *(in-person only; not available to on-demand lab users)* |     |
 | [B1 · Open the shared knowledge base](#b1) | On your own |
 | [B2 · Prep for a furnace repair](#b2) | MC-led |
 | [B3 · Check for safety risks before a visit](#b3) | MC-led |
@@ -44,7 +42,7 @@
 | [B9 · Assign the ticket](#b9) | MC-led |
 | [B10 · Create a report](#b10) | MC-led |
 | **Track C · Use the EagleFord knowledge base** |     |
-| [C1 · Tour the knowledge base (2-3 min)](#c1) | On your own |
+| [C1 · Tour the knowledge base (2–3 min)](#c1) | On your own |
 | [C2 · Find the open issues](#c2) | On your own |
 | [C3 · Onboard a new team member](#c3) | On your own |
 | [C4 · Create a meeting brief](#c4) | On your own |
@@ -55,14 +53,22 @@
 
 ## Lab setup (everyone)
 
+> **On-demand lab:** These steps are for online attendees using their own Microsoft 365 tenant.
+
+### Requirements
+
+You need all of the following:
+
+1. Microsoft 365 E7
+2. Microsoft 365 Copilot
+3. Microsoft SharePoint tenant enrolled in the Frontier preview
+4. Microsoft 365 tenant with a Copilot Credits policy applied
+
+### Steps
+
 1. Double-click the **Edge** browser on your desktop.
-  
-2. Copy this URL into the Edge address bar:
-  
-      https://wwlautox05164985.sharepoint.com/_layouts/15/sharepoint.aspx/discover
-  
-3. Sign in with your lab user name and password. Use this same account for every task in this lab.
-  
+2. Open SharePoint.
+3. Check that knowledge bases are available on your tenant: select **Build** in the left navigation and look for the **Knowledge base** tile. If you don't see it, check the requirements above.
 
 [Back to task list](#tasks)
 
@@ -90,18 +96,8 @@ You can do this track without doing Track B.
 
 ### Steps
 
-1. Open a new tab in Edge.
-  
-2. Copy and paste this URL into the address bar:
-  
-      https://wwlautox05164985.sharepoint.com/sites/HighDesertPropertyManagement/EagleFord/Forms/AllItems.aspx
-  
-3. Select the **eagleford-sales-dataset** folder.
-  
-4. Download the **eagleford-sales-dataset** to your **Downloads** folder.
-  
-5. Extract it in the **Downloads** folder (right-click the ZIP > **Extract All**). You now have an **eagleford-sales-dataset** folder with 50 account documents (Markdown) in five groups: discovery, solution design, validation, commercial, and delivery.
-  
+1. Download the **eagleford-sales-dataset** ZIP from the lab's GitHub repository to your **Downloads** folder.
+2. Extract it in the **Downloads** folder (right-click the ZIP > **Extract All**). You now have an **eagleford-sales-dataset** folder with 50 account documents (Markdown) in five groups: discovery, solution design, validation, commercial, and delivery.
 
 ### Why it matters
 
@@ -140,7 +136,7 @@ Upload the extracted folder, not the ZIP.
 
 ### Submit this prompt
 
-    Create a new SharePoint knowledge base named "EagleFord Account Knowledge Base" using all 50 EagleFord account documents in Documents. Its purpose is to give the account team a shared, reliable understanding of the customer relationship, from discovery and requirements through negotiations, implementation, and expansion opportunities. It is intended for account executives, sales engineers, customer success managers, implementation teams, and sales leadership. Organize the content into easy-to-navigate topics covering the account overview, stakeholders, customer needs, solution design, pilot results, commercial agreements, rollout progress, risks, and next steps. Clearly label the entire knowledge base as a fictional training simulation. Use the available SharePoint capabilities without using the KB skill.
+    Create a new SharePoint knowledge base named “EagleFord Account Knowledge Base” using all 50 EagleFord account documents in Documents. Its purpose is to give the account team a shared, reliable understanding of the customer relationship, from discovery and requirements through negotiations, implementation, and expansion opportunities. It is intended for account executives, sales engineers, customer success managers, implementation teams, and sales leadership. Organize the content into easy-to-navigate topics covering the account overview, stakeholders, customer needs, solution design, pilot results, commercial agreements, rollout progress, risks, and next steps. Clearly label the entire knowledge base as a fictional training simulation. Use the available SharePoint capabilities without using the KB skill.
     
     Read all 50 documents and connect related information rather than simply creating a separate summary for each file. Preserve important details, dates, decisions, owners, financial figures, and unresolved questions, with links to the supporting documents. Distinguish earlier proposals from final decisions, estimates from observed results, and completed actions from open items. Make clear that the latest source information is dated October 23, 2026. Use the knowledge base for meeting preparation, account planning, onboarding, sales-to-delivery handoffs, and answering account questions with supporting evidence. Do not invent missing information or include the unrelated musical-instrument support data. If you cannot access the destination or sources, explain what is needed and stop rather than substituting other material. Validate document coverage and links before reporting completion.
 
@@ -155,6 +151,8 @@ Copilot connects the account knowledge across all 50 documents instead of writin
 <a id="trackb"></a>
 
 # Track B · Field Knowledge: from closed tickets to the next job guide
+
+> **On-demand lab:** This track is for in-person attendees only and is not available to on-demand lab users. Skip to [Track C](#trackc).
 
 Fictional team: High Desert Property Management, 8 rental properties in Bend, Oregon. Source data: 379 closed maintenance tickets with free-text completion notes.
 
@@ -421,7 +419,7 @@ Use the EagleFord Account Knowledge Base you created in Track A to find open iss
 
 <a id="c1"></a>
 
-## C1 · Tour the knowledge base (2-3 min)
+## C1 · Tour the knowledge base (2–3 min)
 
 ### Steps
 
@@ -435,7 +433,7 @@ The customer name, the champion (Dana Brooks), and the main stakeholders. Copilo
 
 ### Why it matters
 
-Context first, so the answers in C2-C4 make sense.
+Context first, so the answers in C2–C4 make sense.
 
 * * *
 
@@ -490,10 +488,10 @@ A colleague gets up to speed without attending a single earlier call.
 
 ### Submit this prompt
 
-    Generate a polished, self-contained HTML meeting brief for an upcoming meeting with a 30-minute account check-in with Dana Brooks on November 22, 2026. Include an executive snapshot; Dana's role, priorities, and communication preferences supported by the sources; the meeting objective and desired outcomes; a timed 30-minute agenda; the top issues and documented commitments to discuss; five tailored discovery or follow-up questions.
+    Generate a polished, self-contained HTML meeting brief for an upcoming meeting with a 30-minute account check-in with Dana Brooks on November 22, 2026. Include an executive snapshot; Dana’s role, priorities, and communication preferences supported by the sources; the meeting objective and desired outcomes; a timed 30-minute agenda; the top issues and documented commitments to discuss; five tailored discovery or follow-up questions.
 
 ### Why it matters
 
 Account knowledge turned into a usable document for a real conversation.
 
-[Back to task list
+[Back to task list](#tasks)
