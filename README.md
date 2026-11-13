@@ -1,3 +1,5 @@
+![Microsoft Ignite 2026](/img/banner-ignite-26.png)
+
 # [Microsoft Ignite 2026](https://ignite.microsoft.com)
 
 ## 🔥LAB650: Build a Knowledge-Powered Workspace with Copilot in SharePoint
