@@ -1,5 +1,7 @@
 # Data
 
-<!-- IGNITE TEMPLATE PLACEHOLDER: remove this folder when the session needs no data files. -->
-
-Use this folder for sample data or inputs required by the session.
+# Licensing Requirements
+1. Microsoft 365 E7
+2. Microsoft 365 Copilot
+3. Microsoft SharePoint Tenant enrolled in Frontier preview
+4. Microsoft 365 Tenant with Copilot Credits policy applied
