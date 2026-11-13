@@ -6,7 +6,7 @@
 Learn how to transform content into organizational knowledge and put AI to work across your team. You'll use Copilot in SharePoint to organize information, enrich content with metadata, create pages and reports, build reusable skills, and automate common processes. Along the way, you'll see how better-organized knowledge helps strengthen Copilot experiences across Microsoft 365. Leave with practical techniques you can apply immediately to build a modern, AI-powered knowledge workspace.
 
 ### 🚀 Getting started
-# License requirements for LAB650
+#### License requirements for LAB650
 1. Microsoft 365 E7
 2.Microsoft 365 Copilot
 3. Microsoft SharePoint Tenant enrolled in Frontier preview
