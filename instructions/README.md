@@ -113,7 +113,7 @@ These 50 files are a realistic account history (meetings, requirements, proposal
 
 1. Switch back to the browser tab with your EagleFord Account site.
 2. Select **Documents** in the left navigation.
-3. Click the **Create or upload** button in the upper right. Under **Upload**, select **Folder upload**.
+3. Click the **Create or upload** button in the upper right. Under **Upload**, select **Folder upload**. Do **not** close this tab. 
 4. Select the extracted **eagleford-sales-dataset** folder in **Downloads** and upload it.
 
 ### Why it matters
